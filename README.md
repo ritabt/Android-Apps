@@ -20,7 +20,7 @@ The following **extensions** are implemented:
 * [X] Custom colors palette selected
 * [X] User can round the total bill up or down
 * [X] User can split the bill accross any number of people
-* [X] The indiviadual amount is update immediately when any of the inputs changes
+* [X] The individual amount is update immediately when any of the inputs changes
 
 ## Video Walkthrough
 
